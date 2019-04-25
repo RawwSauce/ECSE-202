@@ -1,0 +1,28 @@
+// Rene Gagnon # 260801777
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt Tait
+The following record was found:
+Name: Suzi Tait
+Student ID: 2519
+Student Grade: 82
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt Mushrush
+The following record was found:
+Name: Felicita Mushrush
+Student ID: 2825
+Student Grade: 76
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt Daggett
+The following record was found:
+Name: Yuonne Daggett
+Student ID: 2029
+Student Grade: 74
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt Spece
+The following record was found:
+Name: Matilde Spece
+Student ID: 2917
+Student Grade: 68
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt Aylor
+The following record was found:
+Name: Francene Aylor
+Student ID: 2728
+Student Grade: 72
+C:\Users\renet\OneDrive - McGill University\Workspace_1\lookup>lookup NamesIDs.txt marks.txt foo
+No record was found for student with last name foo
